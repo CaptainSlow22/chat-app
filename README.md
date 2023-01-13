@@ -14,3 +14,5 @@ To run the app open the terminal and type: <br/>
 ```
 python .\manage.py runserver
 ```
+![chat-app-1](https://user-images.githubusercontent.com/88268271/212376342-4f3c936c-8b79-470c-9a85-f485211dd5b4.png)
+![chat-app-2](https://user-images.githubusercontent.com/88268271/212376353-635080fe-6ba7-49ed-89fa-dd3e6fb0e376.png)
